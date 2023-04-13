@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/arman7203/minyr
+	fetch = +refs/heads/*:refs/remotes/origin/*
